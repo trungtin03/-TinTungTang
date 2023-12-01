@@ -1,4 +1,4 @@
-# Xin chào, Tôi là [Tên của bạn]
+# Xin chào, Tôi là Trần Trung Tín
 
 Chào mừng bạn đến với trang GitHub của tôi! 🎉
 
